@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+.divCard {
+  background-color: #fcbf49;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.h3Card {
+  margin: 10px;
+  color: #264653;
+}
+
+.pCard {
+  font-size: 13px;
+  margin: 5px;
+  text-align: justify;
+}
+
+.searchBar {
+  padding: 10px;
+  background-color: #eae2b7;
+  text-align: center;
+  justify-content: center;
+}
